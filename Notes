@@ -12,3 +12,24 @@ Select one item for two color.
 copy color from your source and paste two color in this item left and right lock by double click of mouse.
 
 then copy code and paste in your css.
+
+------------------------------------
+For mobile reponsive:
+
+@media only screen and (min-width:480px) and (max-width:768px){
+.template {width:760px;}
+
+}
+
+@media only screen and (min-width:320px) and (max-width:360px){
+
+.template{width:350px;}
+}
+
+@media only screen and (min-width:240px) and (max-width:319px){
+.template{width:300px;}
+
+}
+
+------------------------------------
+For mobile reponsive:
